@@ -51,3 +51,14 @@ ol {
   from {filter: grayscale(100%);}
   to {filter: grayscale(0%);}
 }
+
+.error-div {
+
+display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  
+}
+
